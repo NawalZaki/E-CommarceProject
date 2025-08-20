@@ -1,1 +1,7 @@
+
 I am NAwal
+
+role:
+1-user
+2-admin
+
